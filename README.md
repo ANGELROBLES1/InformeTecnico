@@ -42,6 +42,7 @@ Cada estructura fue implementada desde cero en Python siguiendo paradigmas orien
 Se ejecutaron pruebas de rendimiento temporal y de consumo de memoria usando la biblioteca `tracemalloc` y `time`.
 
 ### 3.1 Resultados por estructura
+  3  Pruebas por Estructura
 
 | Estructura     | Tiempo (s) | Memoria (KB) |
 |----------------|------------|---------------|
