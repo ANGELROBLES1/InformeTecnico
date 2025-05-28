@@ -1,6 +1,7 @@
 # Informe Técnico del Proyecto: Gestor Inteligente de Estructuras de Datos Lineales
 
 ## 1. Introducción
+![image](https://github.com/user-attachments/assets/5f690449-d434-4f9c-a1d5-7304928a6a55)
 
 El presente informe documenta el desarrollo e implementación de una aplicación educativa e interactiva denominada **"Gestor Inteligente de Estructuras de Datos Lineales"**, cuyo objetivo principal es facilitar la visualización, operación y análisis de rendimiento de diversas estructuras de datos lineales. El sistema fue desarrollado en **Python** utilizando **Tkinter** para la interfaz gráfica, y está orientado a estudiantes y profesionales que deseen comprender el funcionamiento interno, la eficiencia y el uso práctico de estas estructuras en escenarios reales.
 
