@@ -55,6 +55,8 @@ Se ejecutaron pruebas de rendimiento temporal y de consumo de memoria usando la 
 | Cola           | 1000      | 0.008274   | 108.74        |
 | Cola           | 5000      | 0.160835   | 568.32        |
 
+![image](https://github.com/user-attachments/assets/bea36378-27ed-4643-99fb-934f63fecfb9)
+
 ---
 
 ## 4. Análisis y Observaciones
