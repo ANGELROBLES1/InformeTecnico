@@ -37,8 +37,9 @@ Cada estructura fue implementada desde cero en Python siguiendo paradigmas orien
 ---
 
 ## 3. Benchmark: Resultados y Análisis
+![image](https://github.com/user-attachments/assets/632a5c2a-97a1-445d-9cdc-db627c6c3c7c)
 
-Se ejecutaron pruebas de rendimiento temporal y de consumo de memoria usando la biblioteca `tracemalloc` y `time`. Cada benchmark utilizó 100, 1,000 y 5,000 elementos para simular operaciones reales.
+Se ejecutaron pruebas de rendimiento temporal y de consumo de memoria usando la biblioteca `tracemalloc` y `time`.
 
 ### 3.1 Resultados por estructura
 
