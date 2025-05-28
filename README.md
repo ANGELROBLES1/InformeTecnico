@@ -43,20 +43,20 @@ Se ejecutaron pruebas de rendimiento temporal y de consumo de memoria usando la 
 
 ### 3.1 Resultados por estructura
 
-| Estructura     | Elementos | Tiempo (s) | Memoria (KB) |
-|----------------|-----------|------------|---------------|
-| Lista Simple   | 100       | 0.000198   | 11.18         |
-| Lista Simple   | 1000      | 0.008915   | 109.60        |
-| Lista Simple   | 5000      | 0.166534   | 578.34        |
-| Lista Doble    | 100       | 0.000249   | 13.57         |
-| Lista Doble    | 1000      | 0.010871   | 120.24        |
-| Lista Doble    | 5000      | 0.199272   | 612.89        |
-| Pila           | 100       | 0.000138   | 10.24         |
-| Pila           | 1000      | 0.007103   | 101.93        |
-| Pila           | 5000      | 0.143237   | 544.76        |
-| Cola           | 100       | 0.000179   | 11.09         |
-| Cola           | 1000      | 0.008274   | 108.74        |
-| Cola           | 5000      | 0.160835   | 568.32        |
+| Estructura     | Tiempo (s) | Memoria (KB) |
+|----------------|------------|---------------|
+| Lista Simple   | 0.000198   | 11.18         |
+| Lista Simple   | 0.008915   | 109.60        |
+| Lista Simple   | 0.166534   | 578.34        |
+| Lista Doble    | 0.000249   | 13.57         |
+| Lista Doble    | 0.010871   | 120.24        |
+| Lista Doble    | 0.199272   | 612.89        |
+| Pila           | 0.000138   | 10.24         |
+| Pila           | 0.007103   | 101.93        |
+| Pila           | 0.143237   | 544.76        |
+| Cola           | 0.000179   | 11.09         |
+| Cola           | 0.008274   | 108.74        |
+| Cola           | 0.160835   | 568.32        |
 
 ---
 
