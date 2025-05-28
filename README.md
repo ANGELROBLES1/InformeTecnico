@@ -9,6 +9,7 @@ El gestor permite seleccionar entre listas simples, listas dobles, pilas y colas
 ---
 
 ## 2. Diseño e Implementación de las Estructuras
+![image](https://github.com/user-attachments/assets/b83fac7d-df6f-4627-bc57-25f0b9829731)
 
 Cada estructura fue implementada desde cero en Python siguiendo paradigmas orientados a objetos. A continuación, se describen sus características:
 
@@ -54,8 +55,6 @@ Se ejecutaron pruebas de rendimiento temporal y de consumo de memoria usando la 
 | Cola           | 100       | 0.000179   | 11.09         |
 | Cola           | 1000      | 0.008274   | 108.74        |
 | Cola           | 5000      | 0.160835   | 568.32        |
-
-![image](https://github.com/user-attachments/assets/bea36378-27ed-4643-99fb-934f63fecfb9)
 
 ---
 
